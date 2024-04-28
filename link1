@@ -30,5 +30,13 @@
         "url": "https://www.imdb.com",
         "link": "https://www.netflix.com",
         "category": "entertainment"
+    },
+  {
+        "id": "4",
+        "text": "Watch a movie",
+        "name": "Jane Smith",
+        "url": "https://www.imdb.com",
+        "link": "https://www.netflix.com",
+        "category": "entertainment"
     }
 ]
