@@ -14,7 +14,7 @@
         "url": "https://www.imdb.com",
         "link": "https://www.netflix.com",
         "category": "entertainment"
-    }
+    },
     {
         "id": "3",
         "text": "Watch a movie",
@@ -22,7 +22,7 @@
         "url": "https://www.imdb.com",
         "link": "https://www.netflix.com",
         "category": "entertainment"
-    }
+    },
   {
         "id": "4",
         "text": "Watch a movie",
