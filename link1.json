@@ -1,42 +1,42 @@
 [
-    {
-        "id": "1",
-        "text": "Complete the React project",
-        "name": "John Doe",
-        "url": "https://www.example.com",
-        "link": "https://www.github.com",
-        "category": "work"
-    },
-    {
-        "id": "2",
-        "text": "Watch a movie",
-        "name": "Jane Smith",
-        "url": "https://www.imdb.com",
-        "link": "https://www.netflix.com",
-        "category": "entertainment"
-    },
-    {
-        "id": "3",
-        "text": "Watch a movie",
-        "name": "Jane Smith",
-        "url": "https://www.imdb.com",
-        "link": "https://www.netflix.com",
-        "category": "entertainment"
-    },
   {
-        "id": "4",
-        "text": "Watch a movie",
-        "name": "Jane Smith",
-        "url": "https://www.imdb.com",
-        "link": "https://www.netflix.com",
-        "category": "entertainment"
-    },
+    "id": "1",
+    "text": "Watch Baahubali",
+    "name": "Baahubali: The Beginning",
+    "url": "https://example.com/baahubali",
+    "link": "https://www.netflix.com/title/80051396",
+    "category": "telugudubbedmovies"
+  },
   {
-        "id": "4",
-        "text": "Watch a movie",
-        "name": "Jane Smith",
-        "url": "https://www.imdb.com",
-        "link": "https://www.netflix.com",
-        "category": "entertainment"
-    }
+    "id": "2",
+    "text": "Watch Saaho",
+    "name": "Saaho",
+    "url": "https://example.com/saaho",
+    "link": "https://www.netflix.com/title/81092564",
+    "category": "telugudubbedmovies"
+  },
+  {
+    "id": "3",
+    "text": "Watch K.G.F: Chapter 1",
+    "name": "K.G.F: Chapter 1",
+    "url": "https://example.com/kgf-chapter1",
+    "link": "https://www.netflix.com/title/81126208",
+    "category": "telugudubbedmovies"
+  },
+  {
+    "id": "4",
+    "text": "Watch RRR",
+    "name": "RRR",
+    "url": "https://example.com/rrr",
+    "link": "https://www.netflix.com/title/81431028",
+    "category": "telugudubbedmovies"
+  },
+  {
+    "id": "5",
+    "text": "Watch Pushpa",
+    "name": "Pushpa: The Rise",
+    "url": "https://example.com/pushpa",
+    "link": "https://www.primevideo.com/detail/Pushpa/0R94USGQ0JHPXWVFNQ6V",
+    "category": "telugudubbedmovies"
+  }
 ]
