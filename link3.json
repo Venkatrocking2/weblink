@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "text": "Watch The Shawshank Redemption",
+        "name": "The Shawshank Redemption",
+        "url": "https://m.media-amazon.com/images/I/71O9kXeD1-L._AC_SL1500_.jpg",
+        "link": "https://www.netflix.com/title/70005379",
+        "category": "englishmovies"
+    },
+    {
+        "id": "2",
+        "text": "Watch The Dark Knight",
+        "name": "The Dark Knight",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/61xZzj2mRIL._AC_SL1024_.jpg",
+        "link": "https://www.netflix.com/title/70079558",
+        "category": "englishmovies"
+    },
+    {
+        "id": "3",
+        "text": "Watch The Matrix",
+        "name": "The Matrix",
+        "url": "https://m.media-amazon.com/images/I/51C-4qZKYZL.jpg",
+        "link": "https://www.netflix.com/title/20557937",
+        "category": "englishmovies"
+    },
+    {
+        "id": "4",
+        "text": "Watch Interstellar",
+        "name": "Interstellar",
+        "url": "https://m.media-amazon.com/images/I/91ol6y7rLIL._AC_SL1500_.jpg",
+        "link": "https://www.netflix.com/title/70305903",
+        "category": "englishmovies"
+    },
+    {
+        "id": "5",
+        "text": "Watch Inception",
+        "name": "Inception",
+        "url": "https://m.media-amazon.com/images/I/51XfORjFwUL.jpg",
+        "link": "https://www.netflix.com/title/70131314",
+        "category": "englishmovies"
+    },
+    {
+        "id": "6",
+        "text": "Watch Fight Club",
+        "name": "Fight Club",
+        "url": "https://m.media-amazon.com/images/I/91P74vLIXjL._AC_SL1500_.jpg",
+        "link": "https://www.netflix.com/title/26047",
+        "category": "englishmovies"
+    },
+    {
+        "id": "7",
+        "text": "Watch Forrest Gump",
+        "name": "Forrest Gump",
+        "url": "https://m.media-amazon.com/images/I/51P6-3Z69CL.jpg",
+        "link": "https://www.netflix.com/title/60000724",
+        "category": "englishmovies"
+    },
+    {
+        "id": "8",
+        "text": "Watch The Godfather",
+        "name": "The Godfather",
+        "url": "https://m.media-amazon.com/images/I/61s7na6YtxL._AC_SL1001_.jpg",
+        "link": "https://www.netflix.com/title/238",
+        "category": "englishmovies"
+    },
+    {
+        "id": "9",
+        "text": "Watch Pulp Fiction",
+        "name": "Pulp Fiction",
+        "url": "https://m.media-amazon.com/images/I/61+LNH0pv1L.jpg",
+        "link": "https://www.netflix.com/title/880620",
+        "category": "englishmovies"
+    },
+    {
+        "id": "10",
+        "text": "Watch The Lion King",
+        "name": "The Lion King",
+        "url": "https://m.media-amazon.com/images/I/71a-mkN5xjL._AC_SL1500_.jpg",
+        "link": "https://www.netflix.com/title/14553",
+        "category": "englishmovies"
+    }
+]
