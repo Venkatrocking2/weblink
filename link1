@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "text": "Complete the React project",
+        "name": "John Doe",
+        "url": "https://www.example.com",
+        "link": "https://www.github.com",
+        "category": "work"
+    },
+    {
+        "id": "2",
+        "text": "Watch a movie",
+        "name": "Jane Smith",
+        "url": "https://www.imdb.com",
+        "link": "https://www.netflix.com",
+        "category": "entertainment"
+    }
+]
