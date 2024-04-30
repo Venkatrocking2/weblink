@@ -1,4 +1,3 @@
-
 [
   {
     "id": "1",
@@ -21,7 +20,6 @@
     "link": "https://gem.ibomma.nexus/ai-n2cdl/dear-2024-kpc7d-telugu-movie-watch-online.html",
     "category": "telugumovie"
   },
- 
   {
     "id": "5",
     "name": "LineMan",
@@ -29,7 +27,6 @@
     "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpKafeIGi_fTEvTnzlXOKegdQGdZET4uRHOWOTyF6ZLA&s",
     "category": "telugumovie"
   },
-
   {
     "id": "8",
     "name": "Bhimaa",
@@ -60,7 +57,7 @@
   },
   {
     "id": "12",
-    "name":"Poratam",
+    "name": "Poratam",
     "url": "https://www.behindwoods.com/telugu-movies/poratam/stills-photos-pictures/poratam-stills-photos-pictures-06.jpg",
     "link": "https://gem.ibomma.nexus/ai-n2cdl/poratam-2024-d1vtb-telugu-movie-watch-online.html",
     "category": "telugumovie"
@@ -113,5 +110,5 @@
     "url": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/premalu-telugu-et00389637-1709549109.jpg",
     "link": "https://gem.ibomma.nexus/ai-n2cdl/premalu-2024-mnt7s-telugu-movie-watch-online.html",
     "category": "telugumovie"
-  },
+  }
 ]
